@@ -1,0 +1,124 @@
+.sidebar {
+    overflow: hidden;
+    position: absolute;
+}
+
+.sidebar a {
+    float: left;
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    background-color: beige;
+    color: #000;
+}
+.certificates img{
+    padding: 14px 16px;
+}
+
+.album img{
+    padding: 8px 14px;
+    
+}
+
+.info{
+    margin-left: 7%;
+    margin-top: 6%;
+}
+ 
+.info h1{
+    font-size: 70px;
+    color: whitesmoke;
+}
+
+.info h3{
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+ span{
+    color: lightsalmon;
+}
+
+
+
+.image img{
+    margin-top: 10px;
+    height: 400px;
+    width: 600px;
+}
+
+
+.social-media a{
+    text-decoration: none;
+    color: white;
+    padding: 30%;
+}
+
+.social-media ion-icon{
+    margin-left: 10%;
+    color: white;
+    margin-right: 50px;
+    font-size: 40px;
+    transition: .4 ease;
+
+}
+
+.social-media {
+    margin: 25px 50px 75px 100pxD;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+img{
+    width: 300;
+    height: 200;
+}
+
+body{
+    background-color: #000;
+ }
+
+ div {
+    padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 90px;
+  }
+
+
+.sidebar a {
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: burlywood;
+    display: block;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.h1 img {
+    padding: 29%;
+}
+
+mark {
+    background-color: aliceblue;
+    color: black;
+}
+
+.image h1{
+    font-size: 300%;
+}
+
+h1{
+    font-size: 300%;
+}
